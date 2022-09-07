@@ -1,5 +1,6 @@
 # Andrei Makouchik
-### Student
+![Alt](https://github.com/FandreyNord/rsschool-cv/blob/gh-pages/makouchik.jpg)
+# Student
 ***
 ### Contact information:
 * +375 29 129 6336 
@@ -11,7 +12,7 @@
 #### Hello! My name is Andrei! 
 I am a student at the Maxim Tank Belarusian State Pedagogical University. 
 Although my future qualification is "Teacher", but at the institute I also attended classes on algorithmization in the C # language. 
-Last year, I started working part-time at the Institute for Advanced Studies and Retraining of the Belarusian State Pedagogical University as a "Specialist". And now for half a year I have been trying to learn JS on my own. Most of all I like to solve algorithmic problems :). 
+Last year, I started working part-time at the Institute for Advanced Studies and Retraining of the Belarusian State Pedagogical University as a "Specialist". And now for half a year I have been trying to learn JS on my own. Most of all I like to solve algorithmic problems on codewars.com :). 
 
 I really want to take the course and gain knowledge that will help me do what interests me and what I am ready to grow in.
 
