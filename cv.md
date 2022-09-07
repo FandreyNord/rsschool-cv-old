@@ -1,5 +1,5 @@
 # Andrei Makouchik
-![Alt](https://github.com/FandreyNord/rsschool-cv/blob/gh-pages/makouchik.jpg)
+![Alt](https://fandreynord.github.io/rsschool-cv/makouchik.jpg)
 # Student
 ***
 ### Contact information:
